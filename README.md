@@ -12,15 +12,63 @@
 </p>
 
 <p align="left">
-  🦄 Lenguajes: <strong>NodeJs, Express, Sequelize, Postgresql, SQL, React, Redux, Javascript, HTML, CSS, Git, Github, NPM.</strong>
+  🦄 Lenguajes: 
+
+</p>
+<p align="left">
+ 
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript" />
+  </a>
+</p>
+<p align="left">
+  💻 Back End: 
+
+</p>
+<p align="left">
+ 
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,expressjs" />
+  </a>
+</p>
+<p align="left">
+  🖥️ Front End: 
+
+</p>
+<p align="left">
+ 
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,redux,styledcomponents,bootstrap,sass" />
+  </a>
+</p>
+<p align="left">
+  🛄 Database: 
+
+</p>
+<p align="left">
+ 
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,firebase" />
+     <img height=50 src="https://www.svgrepo.com/show/354333/sequelize.svg"/><img height=50 
+     
+                                                                                  
+  </a>
 </p>
 
 <p align="left">
-  ⚙️ Frameworks: <strong>Typescript, Bootstrap, Tailwind, VueJs, Framer Motion, Chakra UI.</strong>
+  💼 Otras tecnologías: 
 </p>
-
 <p align="left">
-  💼 Herramientas: <strong>Visual Studio Code, Figma, Illustrator, Photoshop, Trello, Vercel, Heroku, Postman.</strong>
+ 
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github" />
+      <img height=50 src="https://www.svgrepo.com/show/354202/postman-icon.svg"/><img height=50 
+      <img height=50 src="https://www.svgrepo.com/show/349532/trello.svg"/><img height=50 
+     <img height=50 src="https://cdn-icons-png.flaticon.com/512/5065/5065388.png"/><img height=50 
+      <img height=50 src="https://www.svgrepo.com/show/75896/psd.svg"/><img height=50  
+      <img height=50 src="https://www.svgrepo.com/show/349509/slack.svg"/><img height=50 
+                                                                                
+  </a>
 </p>
 
 <p align="left">
