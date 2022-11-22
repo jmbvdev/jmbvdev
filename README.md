@@ -8,6 +8,8 @@
   
   <p align="left"> 
   Soy un desarrollador web Full Stack orientado al diseño web.
+</p>
+  <p align="left"> 
 A lo largo de mi vida me he involucrado en diversas áreas de programación, trabajo en equipo 📣 y creatividad.
 Ser curioso, proactivo y decidido fueron las claves que me llevaron a aprender programación y descubrir una nueva pasión. ✨
 </p>
