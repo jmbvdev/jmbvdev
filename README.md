@@ -7,8 +7,9 @@
 <h3>:zap: Sobre mi!</h3>
   
   <p align="left"> 
-  Desarrollador web Full Stack con formación como diseñador web.<br/><br/>
-  Tengo una afición por la tecnología y la programación; me maravilla todo lo que se puede crear con ella. ✨
+  Soy un desarrollador web Full Stack orientado al diseño web.
+A lo largo de mi vida me he involucrado en diversas áreas de programación, trabajo en equipo 📣 y creatividad.
+Ser curioso, proactivo y decidido fueron las claves que me llevaron a aprender programación y descubrir una nueva pasión. ✨
 </p>
 
 <p align="left">
