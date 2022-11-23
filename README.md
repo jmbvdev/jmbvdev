@@ -31,7 +31,8 @@ Ser curioso, proactivo y decidido fueron las claves que me llevaron a aprender p
 <p align="left">
  
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,expressjs" />
+    <img src="https://skillicons.dev/icons?i=nodejs,expressjs,postgres,firebase" />
+       <img height=50 src="https://www.svgrepo.com/show/354333/sequelize.svg"/><img height=50 
   </a>
 </p>
 <p align="left">
@@ -44,19 +45,7 @@ Ser curioso, proactivo y decidido fueron las claves que me llevaron a aprender p
     <img src="https://skillicons.dev/icons?i=react,redux,styledcomponents,bootstrap,sass" />
   </a>
 </p>
-<p align="left">
-  🛄 Database: 
 
-</p>
-<p align="left">
- 
-   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,firebase" />
-     <img height=50 src="https://www.svgrepo.com/show/354333/sequelize.svg"/><img height=50 
-     
-                                                                                  
-  </a>
-</p>
 
 <p align="left">
   💼 Otras tecnologías: 
