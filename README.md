@@ -78,18 +78,6 @@ Ser curioso, proactivo y decidido fueron los puntos claves que me llevaron a apr
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
 </p>  
 
----
 
-<h3 align="left">📈 GitHub Stats</h3>
 
-<div>
 
-  <a href="https://github.com/jmbvdev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jmbvdev&theme=gruvbox&show_icons=true"/>
-  </a>
-  
-  <a href="https://github.com/jmbvdev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmbvdev&hide=html&theme=gruvbox"/>
-  </a>
-  
-</div>
